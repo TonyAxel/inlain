@@ -12,7 +12,6 @@
         <div><input type="text" id="sr" class="srr"></div>
         <div>
         <input type="button" value="Поиск" id="search">
-        <input type="button" value="Добавить данные" id="added-data">
         </div>
     </div>
     <div id="count"></div>
